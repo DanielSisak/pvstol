@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-label="Galéria kúpeľne">
+<defs>linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#101010"/><stop offset="1" stop-color="#2c3332"/></linearGradient><filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .08"/></feComponentTransfer></filter></defs>
+<rect width="1600" height="1100" fill="url(#g)"/><rect width="1600" height="1100" filter="url(#noise)" opacity=".42"/>
+<path d="M180 820 C420 680 530 715 765 565 C980 427 1150 455 1420 275" fill="none" stroke="#c9ccd1" stroke-opacity=".16" stroke-width="2"/>
+<rect x="180" y="190" width="1240" height="720" rx="34" fill="none" stroke="#c9ccd1" stroke-opacity=".12"/>
+<rect x="230" y="250" width="520" height="610" rx="22" fill="#ffffff" opacity=".035"/>
+<rect x="800" y="250" width="560" height="250" rx="22" fill="#ffffff" opacity=".05"/>
+<rect x="800" y="550" width="560" height="310" rx="22" fill="#ffffff" opacity=".027"/>
+<text x="230" y="985" fill="#c9ccd1" fill-opacity=".70" font-family="Arial, sans-serif" font-size="48" letter-spacing="6">Galéria kúpeľne</text>
+<text x="230" y="1040" fill="#8c9095" font-family="Arial, sans-serif" font-size="22" letter-spacing="8">SEM VLOŽTE REÁLNU FOTOGRAFIU WEBP/AVIF</text>
+</svg>
